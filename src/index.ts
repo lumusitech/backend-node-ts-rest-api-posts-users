@@ -1,1 +1,3 @@
-console.log("base config finished");
+import server from './server'
+
+server.start()
